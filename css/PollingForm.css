@@ -1,0 +1,45 @@
+.con,
+.jumbotron {
+    background-color: #7952b3;
+    max-height: 170px;
+ 
+}
+.display-3 {
+    color: #fff;
+    text-align: center;
+}
+
+.btn {
+    background-color: #7952b3;
+    border: 2px solid #7952b3;
+    color: #fff;
+}
+
+.btn:hover {
+    background-color: #775ba4;
+    border: 2px solid #775ba4;
+    color: #fff;
+}
+
+fieldset {
+    border: none;
+}
+
+#form {
+    
+  
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-family: verdana, sans-serif;
+}
+.somerandom {
+    margin-top: 50px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
