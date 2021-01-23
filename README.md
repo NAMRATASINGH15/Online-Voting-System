@@ -53,7 +53,7 @@
 
 ![Admin Dashboard](/images/Screenshot8.png "Admin Dashboard")
 
-- This is the page where the administrator can add voters and candidates. After the voting is over, administrators can also view the result of live voting in the name of the district.
+- This is the page where the administrator can add voters and candidates. After the voting is over, administrators can also view the result of live voting by the name of the district.
 
 ***
 
