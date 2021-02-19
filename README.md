@@ -1,7 +1,7 @@
 # ONLINE VOTING SYSTEM
 
- - This is a web application by which the users can vote over the online.
- - In this voting system a user can vote only once and at the end of voting the result was displayed in form of graph.
+ - This is a web application by which the users can vote online.
+ - In this voting system, a user can vote only once and at the end of voting the result was displayed in form of a graph.
 
 ***
 
